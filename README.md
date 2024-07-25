@@ -1,6 +1,6 @@
 ## Другие проекты:
-* [Проект 1](https://copypastas.ru)
-* [Проект 2](https://regtool.net)
+* [Проект 1](https://regtool.net)
+* [Проект 2](https://copypastas.ru)
 
 ## Репозиторий tests: 
 [https://github.com/ionquen/tests](https://github.com/ionquen/tests)
