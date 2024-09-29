@@ -1,4 +1,4 @@
-## Другие проекты:
+## Проекты:
 * [Проект 1](https://regtool.net)
 * [Проект 2](https://copypastas.ru)
 
